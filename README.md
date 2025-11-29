@@ -1,3 +1,7 @@
+<img width="834" height="488" alt="image" src="https://github.com/user-attachments/assets/a57bf02f-e688-4836-90aa-a627e0532c6d" />
+
+
+
 # HR-Analytics-Dashboard-PowerBi-
 
 
